@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09f311b0083c74619a66afde23efcb52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mysphere: {fileID: 1078733917669070, guid: ab5356a35126744b798a3e7c521529e4, type: 2}
+  - CamLeftEye: {instanceID: 0}
+  - CamRightEye: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

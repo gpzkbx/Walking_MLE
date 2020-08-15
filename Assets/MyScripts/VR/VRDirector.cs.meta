@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6659353b8ce3a44b9b5b319543f2634a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mysphere: {fileID: 1078733917669070, guid: ab5356a35126744b798a3e7c521529e4, type: 2}
+  - SteamVrCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e272a114f05a8487384829de2fa40c28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MySphereVision: {fileID: 1078733917669070, guid: ab5356a35126744b798a3e7c521529e4,
+      type: 2}
+  - MySphereAudition: {fileID: 1284094437476920, guid: f25cd5244f72b4675a5e5358bfec1533,
+      type: 2}
+  - SteamVrCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
